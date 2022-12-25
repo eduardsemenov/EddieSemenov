@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on with others who have similar interests in learning various projects
 - 📫 How to reach me:
 
-<a href=”https://twitter.com/SemenovEddie"><img align=”left” src=”https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png” alt=”deepa Jarout| Twitter” width=”35px”/></a>
+<a href=”https://twitter.com/SemenovEddie"><img align=”left” src=”https://github.com/EddieSemenov/EddieSemenov/blob/main/twitterlogo.png?raw=true” width=”35px”/></a>
